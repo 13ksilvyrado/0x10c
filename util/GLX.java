@@ -1,11 +1,4 @@
-/*
- * Decompiled with CFR 0.151.
- * 
- * Could not load the following classes:
- *  org.lwjgl.opengl.ARBMultitexture
- *  org.lwjgl.opengl.GL13
- *  org.lwjgl.opengl.GLContext
- */
+
 package util;
 
 import com.mojang.spacegame.MemoryTracker;
